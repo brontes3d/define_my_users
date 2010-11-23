@@ -2,7 +2,7 @@
 
 A way to define roles, where the list of roles is accessible as symbols, but each instance of a user having a role is backed by a "typed_user" object.
 
-for Example usages look at the tests
+For examples look at the tests.
 
 
 Copyright (c) 2009-2010 3M. All rights reserved. Released under the MIT license.
